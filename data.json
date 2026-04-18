@@ -1,0 +1,2077 @@
+{
+  "subjects": [
+    {
+      "subject_id": "ban1st",
+      "subject_name_bn": "বাংলা ১ম পত্র",
+      "subject_name_en": "Bangla 1st Paper",
+      "chapters_prose": [
+        {
+          "chapter_id": "ban1st_prose_01",
+          "chapter_title": "গদ্য-১ কাবুলিওয়ালা - রবীন্দ্রনাথ ঠাকুর",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_01.pdf"
+        },
+        {
+          "chapter_id": "ban1st_prose_02",
+          "chapter_title": "গদ্য-২ লখার একুশে - আবুবকর সিদ্দিক",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_02.pdf"
+        },
+        {
+          "chapter_id": "ban1st_prose_03",
+          "chapter_title": "গদ্য-৩ মরু-ভাস্কর - হবীবুল্লাহ্ বাহার",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_03.pdf"
+        },
+        {
+          "chapter_id": "ban1st_prose_04",
+          "chapter_title": "গদ্য-৪ শব্দ থেকে কবিতা - হুমায়ুন আজাদ",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_04.pdf"
+        },
+        {
+          "chapter_id": "ban1st_prose_05",
+          "chapter_title": "গদ্য-৫ পাখি - লীলা মজুমদার",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_05.pdf"
+        },
+        {
+          "chapter_id": "ban1st_prose_06",
+          "chapter_title": "গদ্য-৬ পিতৃপুরুষের গল্প - হারুন হাবীব",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_06.pdf"
+        },
+        {
+          "chapter_id": "ban1st_prose_07",
+          "chapter_title": "গদ্য-৭ ছবির রং - হাশেম খান",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_07.pdf"
+        },
+        {
+          "chapter_id": "ban1st_prose_08",
+          "chapter_title": "গদ্য-৮ সেই ছেলেটি - মামুনুর রশীদ",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_08.pdf"
+        },
+        {
+          "chapter_id": "ban1st_prose_09",
+          "chapter_title": "গদ্য-৯ বহু জাতিসত্তার দেশ - বাংলাদেশ - এ.কে. শেরাম",
+          "pdf_url": "Class 7/ban1st/ban1st_prose_09.pdf"
+        }
+      ],
+      "chapters_poem": [
+        {
+          "chapter_id": "ban1st_poem_01",
+          "chapter_title": "পদ্য-১ নতুন দেশ - রবীন্দ্রনাথ ঠাকুর",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_01.pdf"
+        },
+        {
+          "chapter_id": "ban1st_poem_02",
+          "chapter_title": "পদ্য-২ কুলি-মজুর - কাজী নজরুল ইসলাম",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_02.pdf"
+        },
+        {
+          "chapter_id": "ban1st_poem_03",
+          "chapter_title": "পদ্য-৩ আমার বাড়ি - জসীমউদ্‌দীন",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_03.pdf"
+        },
+        {
+          "chapter_id": "ban1st_poem_04",
+          "chapter_title": "পদ্য-৪ শ্রাবণে - সুকুমার রায়",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_04.pdf"
+        },
+        {
+          "chapter_id": "ban1st_poem_05",
+          "chapter_title": "পদ্য-৫ গরবিনী মা-জননী - সিকান্দার আবু জাফর",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_05.pdf"
+        },
+        {
+          "chapter_id": "ban1st_poem_06",
+          "chapter_title": "পদ্য-৬ সাম্য - সুফিয়া কামাল",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_06.pdf"
+        },
+        {
+          "chapter_id": "ban1st_poem_07",
+          "chapter_title": "পদ্য-৭ মেলা - আহসান হাবীব",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_07.pdf"
+        },
+        {
+          "chapter_id": "ban1st_poem_08",
+          "chapter_title": "পদ্য-৮ এই অক্ষরে - মহাদেব সাহা",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_08.pdf"
+        },
+        {
+          "chapter_id": "ban1st_poem_09",
+          "chapter_title": "পদ্য-৯ সিঁথি - হাসান রোবায়েত",
+          "pdf_url": "Class 7/ban1st/ban1st_poem_09.pdf"
+        }
+      ],
+      "chapters_Anandapatha": [
+        {
+          "chapter_id": "ban1st_anand_01",
+          "chapter_title": "গল্প-০১ তোতা-কাহিনী - রবীন্দ্রনাথ ঠাকুর",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_01.pdf"
+        },
+        {
+          "chapter_id": "ban1st_anand_02",
+          "chapter_title": "গল্প-০২ জিদ - জসীমউদ্দীন",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_02.pdf"
+        },
+        {
+          "chapter_id": "ban1st_anand_03",
+          "chapter_title": "গল্প-০৩ খুদে গোয়েন্দার অভিযান - শহীদ সাবের",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_03.pdf"
+        },
+        {
+          "chapter_id": "ban1st_anand_04",
+          "chapter_title": "গল্প-০৪ দীক্ষা - মোহাম্মদ নাসির আলী",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_04.pdf"
+        },
+        {
+          "chapter_id": "ban1st_anand_05",
+          "chapter_title": "গল্প-০৫ পদ্য লেখার জোরে - মাহমুদুল হক",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_05.pdf"
+        },
+        {
+          "chapter_id": "ban1st_anand_06",
+          "chapter_title": "গল্প-০৬ কোকিল - হান্স ক্রিশ্চিয়ান আন্দেরসেন",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_06.pdf"
+        },
+        {
+          "chapter_id": "ban1st_anand_07",
+          "chapter_title": "গল্প-০৭ কিং লিয়ার - ইউলিয়াম শেক্সপিয়র",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_07.pdf"
+        },
+        {
+          "chapter_id": "ban1st_anand_08",
+          "chapter_title": "গল্প-০৮ যুদ্ধক্ষেত্রে পিতাপুত্র - আবুল কাসিম ফেরদৌসি",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_08.pdf"
+        },
+        {
+          "chapter_id": "ban1st_anand_09",
+          "chapter_title": "নাটক- জাগো সুন্দর - কাজী নজরুল ইসলাম",
+          "pdf_url": "Class 7/ban1st/ban1st_anand_09.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "ban1st_tb_saptabarna",
+          "chapter_title": "সপ্তবর্ণা (পাঠ্যবই)",
+          "pdf_url": "Class 7/ban1st/ban1st_tb_saptabarna.pdf"
+        },
+        {
+          "chapter_id": "ban1st_tb_anandapatha",
+          "chapter_title": "আনন্দপাঠ (পাঠ্যবই)",
+          "pdf_url": "Class 7/ban1st/ban1st_tb_anandapatha.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "ban2nd",
+      "subject_name_bn": "বাংলা ২য় পত্র",
+      "subject_name_en": "Bangla 2nd Paper",
+      "chapters_guide": [
+        {
+          "chapter_id": "ban2nd_guide_01",
+          "chapter_title": "ব্যাকরণ: বহুনির্বাচনি প্রশ্ন",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_01.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_guide_02",
+          "chapter_title": "প্রশ্ন-০১: অনুধাবন দক্ষতা (সৃজনশীল)",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_02.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_guide_03",
+          "chapter_title": "প্রশ্ন-০১: অথবা, অনুচ্ছেদ রচনা",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_03.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_guide_04",
+          "chapter_title": "প্রশ্ন-০২: সারাংশ ও সারমর্ম",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_04.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_guide_05",
+          "chapter_title": "প্রশ্ন-০৩: ভাবসম্প্রসারণ",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_05.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_guide_06",
+          "chapter_title": "প্রশ্ন-০৪: আবেদনপত্র ও চিঠি",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_06.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_guide_07",
+          "chapter_title": "প্রশ্ন-০৫: নির্মিতি (রচনা)",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_07.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_guide_08",
+          "chapter_title": "রিভিশন",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_08.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_guide_09",
+          "chapter_title": "মডেল টেস্ট",
+          "pdf_url": "Class 7/ban2nd/ban2nd_guide_09.pdf"
+        }
+      ],
+      "chapters_note": [
+        {
+          "chapter_id": "ban2nd_note_01",
+          "chapter_title": "১ম অধ্যায়: ভাষা ও যোগাযোগ",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_01.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_02",
+          "chapter_title": "২য় অধ্যায়: ধ্বনিতত্ত্ব",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_02.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_03",
+          "chapter_title": "৩য় অধ্যায়: শব্দতত্ত্ব বা রূপতত্ত্ব",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_03.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_04",
+          "chapter_title": "৪র্থ অধ্যায়: বাক্যের শ্রেণি",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_04.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_05",
+          "chapter_title": "৫ম অধ্যায়: যতিচিহ্ন বা বিরামচিহ্ন",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_05.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: বানান",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_06.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_07",
+          "chapter_title": "৭ম অধ্যায়: অভিধান",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_07.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_08",
+          "chapter_title": "৮ম অধ্যায়: শব্দার্থ",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_08.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_09",
+          "chapter_title": "৯ম অধ্যায়: প্রায়োগিক লেখা",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_09.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_10",
+          "chapter_title": "১০ম অধ্যায়: বিবরণমূলক লেখা",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_10.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_11",
+          "chapter_title": "১১শ অধ্যায়: তথ্যমূলক লেখা",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_11.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_12",
+          "chapter_title": "১২শ অধ্যায়: বিশ্লেষণমূলক লেখা",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_12.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_13",
+          "chapter_title": "১৩শ অধ্যায়: কল্পনানির্ভর লেখা",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_13.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_14",
+          "chapter_title": "১৪শ অধ্যায়: সংলাপ লিখন",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_14.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_15",
+          "chapter_title": "১৫শ অধ্যায়: সারাংশ ও সারমর্ম লিখন",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_15.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_16",
+          "chapter_title": "১৬শ অধ্যায়: ভাব-সম্প্রসারণ",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_16.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_17",
+          "chapter_title": "১৭শ অধ্যায়: প্রবন্ধ রচনা",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_17.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_18",
+          "chapter_title": "১৮শ অধ্যায়: প্রশ্ন করি জবাব খুঁজি, প্রয়োগ করি",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_18.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_19",
+          "chapter_title": "১৯শ অধ্যায়: সাহিত্য সমালোচনা লিখন",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_19.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_20",
+          "chapter_title": "২০শ অধ্যায়: কবিতাকে গদ্যে রূপান্তর",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_20.pdf"
+        },
+        {
+          "chapter_id": "ban2nd_note_21",
+          "chapter_title": "২১শ অধ্যায়: মূল্যায়ন উপযোগী যোগ্যতাভিত্তিক প্রশ্ন ও উত্তর",
+          "pdf_url": "Class 7/ban2nd/ban2nd_note_21.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "ban2nd_tb_bn",
+          "chapter_title": "বাংলা ২য় পত্র (পাঠ্যবই)",
+          "pdf_url": "Class 7/ban2nd/ban2nd_tb_bn.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "eng1st",
+      "subject_name_bn": "ইংরেজি ১ম পত্র",
+      "subject_name_en": "English 1st Paper",
+      "chapters_notes": [
+        {
+          "chapter_id": "eng1st_note_01",
+          "chapter_title": "Unit-01 Attention, Please",
+          "pdf_url": "Class 7/eng1st/eng1st_note_01.pdf"
+        },
+        {
+          "chapter_id": "eng1st_note_02",
+          "chapter_title": "Unit-02 My Study Guide",
+          "pdf_url": "Class 7/eng1st/eng1st_note_02.pdf"
+        },
+        {
+          "chapter_id": "eng1st_note_03",
+          "chapter_title": "Unit-03 What are Friends for",
+          "pdf_url": "Class 7/eng1st/eng1st_note_03.pdf"
+        },
+        {
+          "chapter_id": "eng1st_note_04",
+          "chapter_title": "Unit-04 People Who Make a Difference",
+          "pdf_url": "Class 7/eng1st/eng1st_note_04.pdf"
+        },
+        {
+          "chapter_id": "eng1st_note_05",
+          "chapter_title": "Unit-05 Great Women to Remember",
+          "pdf_url": "Class 7/eng1st/eng1st_note_05.pdf"
+        },
+        {
+          "chapter_id": "eng1st_note_06",
+          "chapter_title": "Unit-06 Leisure",
+          "pdf_url": "Class 7/eng1st/eng1st_note_06.pdf"
+        },
+        {
+          "chapter_id": "eng1st_note_07",
+          "chapter_title": "Unit-07 Games and Sports",
+          "pdf_url": "Class 7/eng1st/eng1st_note_07.pdf"
+        },
+        {
+          "chapter_id": "eng1st_note_08",
+          "chapter_title": "Unit-08 Likes and Dislikes",
+          "pdf_url": "Class 7/eng1st/eng1st_note_08.pdf"
+        },
+        {
+          "chapter_id": "eng1st_note_09",
+          "chapter_title": "Unit-09 Climate Change",
+          "pdf_url": "Class 7/eng1st/eng1st_note_09.pdf"
+        }
+      ],
+      "chapters_guide": [
+        {
+          "chapter_id": "eng1st_guide_01",
+          "chapter_title": "Ques-01-04: Seen Comprehension",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_01.pdf"
+        },
+        {
+          "chapter_id": "eng1st_guide_02",
+          "chapter_title": "Ques-05-07: Unseen Comprehension",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_02.pdf"
+        },
+        {
+          "chapter_id": "eng1st_guide_03",
+          "chapter_title": "Ques-08: Matching",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_03.pdf"
+        },
+        {
+          "chapter_id": "eng1st_guide_04",
+          "chapter_title": "Ques-09: Rearranging Sentences",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_04.pdf"
+        },
+        {
+          "chapter_id": "eng1st_guide_05",
+          "chapter_title": "Ques-10: Question Answer from Poem",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_05.pdf"
+        },
+        {
+          "chapter_id": "eng1st_guide_06",
+          "chapter_title": "Ques-11: Completing a Story",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_06.pdf"
+        },
+        {
+          "chapter_id": "eng1st_guide_07",
+          "chapter_title": "Ques-12: Writing Paragraph",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_07.pdf"
+        },
+        {
+          "chapter_id": "eng1st_guide_08",
+          "chapter_title": "Ques-13: Writing Dialogues",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_08.pdf"
+        },
+        {
+          "chapter_id": "eng1st_guide_09",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/eng1st/eng1st_guide_09.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "eng1st_tb_bn",
+          "chapter_title": "English For Today (পাঠ্যবই)",
+          "pdf_url": "Class 7/eng1st/eng1st_tb_bn.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "eng2nd",
+      "subject_name_bn": "ইংরেজি ২য় পত্র",
+      "subject_name_en": "English 2nd Paper",
+      "chapters_notes": [
+        {
+          "chapter_id": "eng2nd_note_01",
+          "chapter_title": "Solution to Applied Grammar Exercises",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_01.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_02",
+          "chapter_title": "Solution to Formation Assessment",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_02.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_03",
+          "chapter_title": "Unit-01: The Sentence",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_03.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_04",
+          "chapter_title": "Unit-02: Parts of Speech",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_04.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_05",
+          "chapter_title": "Unit-03: More About Noun",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_05.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_06",
+          "chapter_title": "Unit-04: More About Pronoun",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_06.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_07",
+          "chapter_title": "Unit-05: More About Adjectives",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_07.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_08",
+          "chapter_title": "Unit-06: Articles",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_08.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_09",
+          "chapter_title": "Unit-07: More About Verbs",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_09.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_10",
+          "chapter_title": "Unit-08: Model Auxiliaries",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_10.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_11",
+          "chapter_title": "Unit-09: Verbals",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_11.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_12",
+          "chapter_title": "Unit-10: Contraction",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_12.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_13",
+          "chapter_title": "Unit-11: Conjugation of Verbs",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_13.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_14",
+          "chapter_title": "Unit-12: Subject-Verb Agreement",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_14.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_15",
+          "chapter_title": "Unit-14: Use of Right Form of Verbs",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_15.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_16",
+          "chapter_title": "Unit-15: More About Adverbs",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_16.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_17",
+          "chapter_title": "Unit-16: Comparison of Adjectives & Adverbs",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_17.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_18",
+          "chapter_title": "Unit-17: More About Preposition",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_18.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_19",
+          "chapter_title": "Unit-18: More About Conjunction",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_19.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_20",
+          "chapter_title": "Unit-19: More About Interjection",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_20.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_21",
+          "chapter_title": "Unit-20: Voice",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_21.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_22",
+          "chapter_title": "Unit-21: Speech",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_22.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_23",
+          "chapter_title": "Unit-22: The Phrase and The Clause",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_23.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_24",
+          "chapter_title": "Unit-23: Transformation of Sentences",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_24.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_25",
+          "chapter_title": "Unit-24: Uses of Suffixes & Prefixes",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_25.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_26",
+          "chapter_title": "Unit-25: Conditionals",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_26.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_27",
+          "chapter_title": "Unit-26: Framing WH-Questions",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_27.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_28",
+          "chapter_title": "Unit-27: Simple Idioms & Phrases",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_28.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_29",
+          "chapter_title": "Unit-28: Capitalization & Punctuation",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_29.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_30",
+          "chapter_title": "Unit-29: Translation",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_30.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_31",
+          "chapter_title": "Unit-30: Wordsearch",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_31.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_32",
+          "chapter_title": "Unit-31: Complete a Story",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_32.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_33",
+          "chapter_title": "Unit-32: Writing Informal Letters-Emails",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_33.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_34",
+          "chapter_title": "Unit-33: Writing Short Dialogues",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_34.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_35",
+          "chapter_title": "Unit-34: Writing Paragraphs",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_35.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_36",
+          "chapter_title": "Unit-35: Writing Formal Letters-Emails",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_36.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_37",
+          "chapter_title": "Unit-36: Writing Composition",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_37.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_note_38",
+          "chapter_title": "Unit-37: Formation Assessment",
+          "pdf_url": "Class 7/eng2nd/eng2nd_note_38.pdf"
+        }
+      ],
+      "chapters_guide": [
+        {
+          "chapter_id": "eng2nd_guide_01",
+          "chapter_title": "Ques-01: Gap Filling Activities with/without clues",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_01.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_02",
+          "chapter_title": "Ques-02: Substitution Table",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_02.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_03",
+          "chapter_title": "Ques-03: Right Form of Verbs",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_03.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_04",
+          "chapter_title": "Ques-04: Narration",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_04.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_05",
+          "chapter_title": "Ques-05: Changing Sentences",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_05.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_06",
+          "chapter_title": "Ques-06: Punctuation & Capitalization",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_06.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_07",
+          "chapter_title": "Ques-07: Writing Formal E-mail",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_07.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_08",
+          "chapter_title": "Ques-07: Writing Formal Letter",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_08.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_09",
+          "chapter_title": "Ques-07: Writing Informal E-mail",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_09.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_10",
+          "chapter_title": "Ques-07: Writing Informal Letter",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_10.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_11",
+          "chapter_title": "Ques-08: Writing Short Composition",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_11.pdf"
+        },
+        {
+          "chapter_id": "eng2nd_guide_12",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/eng2nd/eng2nd_guide_12.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "eng2nd_tb_bn",
+          "chapter_title": "English Grammar and Composition (পাঠ্যবই)",
+          "pdf_url": "Class 7/eng2nd/eng2nd_tb_bn.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "math",
+      "subject_name_bn": "গণিত",
+      "subject_name_en": "Mathematics",
+      "chapters_bn": [
+        {
+          "chapter_id": "math_bn_01",
+          "chapter_title": "১ম অধ্যায়: মূলদ ও অমূলদ সংখ্যা",
+          "pdf_url": "Class 7/math/math_bn_01.pdf"
+        },
+        {
+          "chapter_id": "math_bn_02",
+          "chapter_title": "২য় অধ্যায়: সমানুপাত ও লাভ-ক্ষতি",
+          "pdf_url": "Class 7/math/math_bn_02.pdf"
+        },
+        {
+          "chapter_id": "math_bn_03",
+          "chapter_title": "৩য় অধ্যায়: পরিমাপ",
+          "pdf_url": "Class 7/math/math_bn_03.pdf"
+        },
+        {
+          "chapter_id": "math_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: বীজগণিতীয় রাশির গুণ ও ভাগ",
+          "pdf_url": "Class 7/math/math_bn_04.pdf"
+        },
+        {
+          "chapter_id": "math_bn_05",
+          "chapter_title": "৫ম অধ্যায়: বীজগণিতীয় সূত্রাবলি ও প্রয়োগ",
+          "pdf_url": "Class 7/math/math_bn_05.pdf"
+        },
+        {
+          "chapter_id": "math_bn_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: বীজগণিতীয় ভগ্নাংশ",
+          "pdf_url": "Class 7/math/math_bn_06.pdf"
+        },
+        {
+          "chapter_id": "math_bn_07",
+          "chapter_title": "৭ম অধ্যায়: সরল সমীকরণ",
+          "pdf_url": "Class 7/math/math_bn_07.pdf"
+        },
+        {
+          "chapter_id": "math_bn_08",
+          "chapter_title": "৮ম অধ্যায়: সমান্তরাল সরলরেখা",
+          "pdf_url": "Class 7/math/math_bn_08.pdf"
+        },
+        {
+          "chapter_id": "math_bn_09",
+          "chapter_title": "৯ম অধ্যায়: ত্রিভুজ",
+          "pdf_url": "Class 7/math/math_bn_09.pdf"
+        },
+        {
+          "chapter_id": "math_bn_10",
+          "chapter_title": "১০ম অধ্যায়: সর্বসমতা ও সদৃশতা",
+          "pdf_url": "Class 7/math/math_bn_10.pdf"
+        },
+        {
+          "chapter_id": "math_bn_11",
+          "chapter_title": "১১শ অধ্যায়: তথ্য ও উপাত্ত",
+          "pdf_url": "Class 7/math/math_bn_11.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "math_ev_01",
+          "chapter_title": "Chapter-01: Rational and Irrational Numbers",
+          "pdf_url": "Class 7/math/math_ev_01.pdf"
+        },
+        {
+          "chapter_id": "math_ev_02",
+          "chapter_title": "Chapter-02: Proportion, Profit and Loss",
+          "pdf_url": "Class 7/math/math_ev_02.pdf"
+        },
+        {
+          "chapter_id": "math_ev_03",
+          "chapter_title": "Chapter-03: Measurement",
+          "pdf_url": "Class 7/math/math_ev_03.pdf"
+        },
+        {
+          "chapter_id": "math_ev_04",
+          "chapter_title": "Chapter-04: Multiplication and Division of Algebraic Expressions",
+          "pdf_url": "Class 7/math/math_ev_04.pdf"
+        },
+        {
+          "chapter_id": "math_ev_05",
+          "chapter_title": "Chapter-05: Algebraic Formulae and Applications",
+          "pdf_url": "Class 7/math/math_ev_05.pdf"
+        },
+        {
+          "chapter_id": "math_ev_06",
+          "chapter_title": "Chapter-06: Algebraic Fractions",
+          "pdf_url": "Class 7/math/math_ev_06.pdf"
+        },
+        {
+          "chapter_id": "math_ev_07",
+          "chapter_title": "Chapter-07: Simple Equations",
+          "pdf_url": "Class 7/math/math_ev_07.pdf"
+        },
+        {
+          "chapter_id": "math_ev_08",
+          "chapter_title": "Chapter-08: Parallel Straight Lines",
+          "pdf_url": "Class 7/math/math_ev_08.pdf"
+        },
+        {
+          "chapter_id": "math_ev_09",
+          "chapter_title": "Chapter-09: Triangles",
+          "pdf_url": "Class 7/math/math_ev_09.pdf"
+        },
+        {
+          "chapter_id": "math_ev_10",
+          "chapter_title": "Chapter-10: Congruence and Similarity",
+          "pdf_url": "Class 7/math/math_ev_10.pdf"
+        },
+        {
+          "chapter_id": "math_ev_11",
+          "chapter_title": "Chapter-11: Information and Data",
+          "pdf_url": "Class 7/math/math_ev_11.pdf"
+        },
+        {
+          "chapter_id": "math_ev_12",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/math/math_ev_12.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "math_tb_bn",
+          "chapter_title": "গণিত (পাঠ্যবই)",
+          "pdf_url": "Class 7/math/math_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "math_tb_ev",
+          "chapter_title": "Mathematics (Textbook)",
+          "pdf_url": "Class 7/math/math_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "ict",
+      "subject_name_bn": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "subject_name_en": "Information And Communication Technology",
+      "chapters_bn": [
+        {
+          "chapter_id": "ict_bn_01",
+          "chapter_title": "১ম অধ্যায়: প্রাত্যহিক জীবনে তথ্য ও যোগাযোগ প্রযুক্তি",
+          "pdf_url": "Class 7/ict/ict_bn_01.pdf"
+        },
+        {
+          "chapter_id": "ict_bn_02",
+          "chapter_title": "২য় অধ্যায়: কম্পিউটার-সংশ্লিষ্ট যন্ত্রপাতি",
+          "pdf_url": "Class 7/ict/ict_bn_02.pdf"
+        },
+        {
+          "chapter_id": "ict_bn_03",
+          "chapter_title": "৩য় অধ্যায়: নিরাপদ ও নৈতিক ব্যবহার",
+          "pdf_url": "Class 7/ict/ict_bn_03.pdf"
+        },
+        {
+          "chapter_id": "ict_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: ওয়ার্ড প্রসেসিং",
+          "pdf_url": "Class 7/ict/ict_bn_04.pdf"
+        },
+        {
+          "chapter_id": "ict_bn_05",
+          "chapter_title": "৫ম অধ্যায়: শিক্ষায় ইন্টারনেটের ব্যবহার",
+          "pdf_url": "Class 7/ict/ict_bn_05.pdf"
+        },
+        {
+          "chapter_id": "ict_bn_06",
+          "chapter_title": "মডেল টেস্ট",
+          "pdf_url": "Class 7/ict/ict_bn_06.pdf"
+        },
+        {
+          "chapter_id": "ict_bn_07",
+          "chapter_title": "ব্যবহারিক",
+          "pdf_url": "Class 7/ict/ict_bn_07.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "ict_ev_01",
+          "chapter_title": "Chapter-01: Information and Communication Technology in daily life",
+          "pdf_url": "Class 7/ict/ict_ev_01.pdf"
+        },
+        {
+          "chapter_id": "ict_ev_02",
+          "chapter_title": "Chapter-02: Computer Oriented Devices",
+          "pdf_url": "Class 7/ict/ict_ev_02.pdf"
+        },
+        {
+          "chapter_id": "ict_ev_03",
+          "chapter_title": "Chapter-03: Safe and Ethical Use",
+          "pdf_url": "Class 7/ict/ict_ev_03.pdf"
+        },
+        {
+          "chapter_id": "ict_ev_04",
+          "chapter_title": "Chapter-04: Word Processing",
+          "pdf_url": "Class 7/ict/ict_ev_04.pdf"
+        },
+        {
+          "chapter_id": "ict_ev_05",
+          "chapter_title": "Chapter-05: Use of the Internet in Education",
+          "pdf_url": "Class 7/ict/ict_ev_05.pdf"
+        },
+        {
+          "chapter_id": "ict_ev_06",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/ict/ict_ev_06.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "ict_tb_bn",
+          "chapter_title": "তথ্য ও যোগাযোগ প্রযুক্তি (পাঠ্যবই)",
+          "pdf_url": "Class 7/ict/ict_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "ict_tb_ev",
+          "chapter_title": "Information and Communication Technology (Textbook)",
+          "pdf_url": "Class 7/ict/ict_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "bgs",
+      "subject_name_bn": "বাংলাদেশ ও বিশ্বপরিচয়",
+      "subject_name_en": "Bangladesh And Global Studies",
+      "chapters_bn": [
+        {
+          "chapter_id": "bgs_bn_01",
+          "chapter_title": "১ম অধ্যায়: বাংলাদেশের মুক্তিসংগ্রাম",
+          "pdf_url": "Class 7/bgs/bgs_bn_01.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_02",
+          "chapter_title": "২য় অধ্যায়: বাংলাদেশের সংস্কৃতি ও সাংস্কৃতিক বৈচিত্র্য",
+          "pdf_url": "Class 7/bgs/bgs_bn_02.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_03",
+          "chapter_title": "৩য় অধ্যায়: পরিবারে শিশুর বেড়ে ওঠা",
+          "pdf_url": "Class 7/bgs/bgs_bn_03.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: বাংলাদেশের অর্থনীতি",
+          "pdf_url": "Class 7/bgs/bgs_bn_04.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_05",
+          "chapter_title": "৫ম অধ্যায়: বাংলাদেশ ও বাংলাদেশের নাগরিক",
+          "pdf_url": "Class 7/bgs/bgs_bn_05.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: বাংলাদেশের জলবায়ু",
+          "pdf_url": "Class 7/bgs/bgs_bn_06.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_07",
+          "chapter_title": "৭ম অধ্যায়: বাংলাদেশের জনসংখ্যা পরিচিতি",
+          "pdf_url": "Class 7/bgs/bgs_bn_07.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_08",
+          "chapter_title": "৮ম অধ্যায়: বাংলাদেশের সামাজিক সমস্যা",
+          "pdf_url": "Class 7/bgs/bgs_bn_08.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_09",
+          "chapter_title": "৯ম অধ্যায়: বাংলাদেশে প্রবীণ ব্যক্তি ও নারীর অধিকার",
+          "pdf_url": "Class 7/bgs/bgs_bn_09.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_10",
+          "chapter_title": "১০ম অধ্যায়: এশিয়ার কয়েকটি দেশ",
+          "pdf_url": "Class 7/bgs/bgs_bn_10.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_11",
+          "chapter_title": "১১শ অধ্যায়: বাংলাদেশ ও আন্তর্জাতিক সহযোগিতা",
+          "pdf_url": "Class 7/bgs/bgs_bn_11.pdf"
+        },
+        {
+          "chapter_id": "bgs_bn_12",
+          "chapter_title": "মডেল টেস্ট",
+          "pdf_url": "Class 7/bgs/bgs_bn_12.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "bgs_ev_01",
+          "chapter_title": "Chapter-01: Liberation Movement of Bangladesh",
+          "pdf_url": "Class 7/bgs/bgs_ev_01.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_02",
+          "chapter_title": "Chapter-02: Culture and Cultural Diversity of Bangladesh",
+          "pdf_url": "Class 7/bgs/bgs_ev_02.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_03",
+          "chapter_title": "Chapter-03: Growth of Child in a Family",
+          "pdf_url": "Class 7/bgs/bgs_ev_03.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_04",
+          "chapter_title": "Chapter-04: Economy of Bangladesh",
+          "pdf_url": "Class 7/bgs/bgs_ev_04.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_05",
+          "chapter_title": "Chapter-05: Bangladesh and Citizen of Bangladesh",
+          "pdf_url": "Class 7/bgs/bgs_ev_05.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_06",
+          "chapter_title": "Chapter-06: Climate of Bangladesh",
+          "pdf_url": "Class 7/bgs/bgs_ev_06.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_07",
+          "chapter_title": "Chapter-07: Introduction to Population of Bangladesh",
+          "pdf_url": "Class 7/bgs/bgs_ev_07.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_08",
+          "chapter_title": "Chapter-08: Social Problems in Bangladesh",
+          "pdf_url": "Class 7/bgs/bgs_ev_08.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_09",
+          "chapter_title": "Chapter-09: Rights of Senior Citizens and Women in Bangladesh",
+          "pdf_url": "Class 7/bgs/bgs_ev_09.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_10",
+          "chapter_title": "Chapter-10: Some Countries in Asia",
+          "pdf_url": "Class 7/bgs/bgs_ev_10.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_11",
+          "chapter_title": "Chapter-11: Bangladesh and International Cooperation",
+          "pdf_url": "Class 7/bgs/bgs_ev_11.pdf"
+        },
+        {
+          "chapter_id": "bgs_ev_12",
+          "chapter_title": "Annexure (Planned Work) & Model Test",
+          "pdf_url": "Class 7/bgs/bgs_ev_12.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "bgs_tb_bn",
+          "chapter_title": "বাংলাদেশ ও বিশ্বপরিচয় (পাঠ্যবই)",
+          "pdf_url": "Class 7/bgs/bgs_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "bgs_tb_ev",
+          "chapter_title": "Bangladesh and Global Studies (Textbook)",
+          "pdf_url": "Class 7/bgs/bgs_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "science",
+      "subject_name_bn": "বিজ্ঞান",
+      "subject_name_en": "Science",
+      "chapters_bn": [
+        {
+          "chapter_id": "science_bn_01",
+          "chapter_title": "১ম অধ্যায়: নিম্নশ্রেণির জীব",
+          "pdf_url": "Class 7/science/science_bn_01.pdf"
+        },
+        {
+          "chapter_id": "science_bn_02",
+          "chapter_title": "২য় অধ্যায়: উদ্ভিদ ও প্রাণীর কোষীয় সংগঠন",
+          "pdf_url": "Class 7/science/science_bn_02.pdf"
+        },
+        {
+          "chapter_id": "science_bn_03",
+          "chapter_title": "৩য় অধ্যায়: উদ্ভিদের বাহ্যিক বৈশিষ্ট্য",
+          "pdf_url": "Class 7/science/science_bn_03.pdf"
+        },
+        {
+          "chapter_id": "science_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: শ্বসন",
+          "pdf_url": "Class 7/science/science_bn_04.pdf"
+        },
+        {
+          "chapter_id": "science_bn_05",
+          "chapter_title": "৫ম অধ্যায়: পরিপাকতন্ত্র এবং রক্ত সংবহনতন্ত্র",
+          "pdf_url": "Class 7/science/science_bn_05.pdf"
+        },
+        {
+          "chapter_id": "science_bn_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: পদার্থের গঠন",
+          "pdf_url": "Class 7/science/science_bn_06.pdf"
+        },
+        {
+          "chapter_id": "science_bn_07",
+          "chapter_title": "০৭ শক্তির ব্যবহার",
+          "pdf_url": "Class 7/science/science_bn_07.pdf"
+        },
+        {
+          "chapter_id": "science_bn_08",
+          "chapter_title": "৮ম অধ্যায়: শব্দের কথা",
+          "pdf_url": "Class 7/science/science_bn_08.pdf"
+        },
+        {
+          "chapter_id": "science_bn_09",
+          "chapter_title": "৯ম অধ্যায়: তাপ ও তাপমাত্রা",
+          "pdf_url": "Class 7/science/science_bn_09.pdf"
+        },
+        {
+          "chapter_id": "science_bn_10",
+          "chapter_title": "১০ম অধ্যায়: বিদ্যুৎ ও চুম্বকের ঘটনা",
+          "pdf_url": "Class 7/science/science_bn_10.pdf"
+        },
+        {
+          "chapter_id": "science_bn_11",
+          "chapter_title": "১১শ অধ্যায়: পারিপার্শ্বিক পরিবর্তন ও বিভিন্ন ঘটনা",
+          "pdf_url": "Class 7/science/science_bn_11.pdf"
+        },
+        {
+          "chapter_id": "science_bn_12",
+          "chapter_title": "১২শ অধ্যায়: সৌরজগৎ ও আমাদের পৃথিবী",
+          "pdf_url": "Class 7/science/science_bn_12.pdf"
+        },
+        {
+          "chapter_id": "science_bn_13",
+          "chapter_title": "১৩শ অধ্যায়: প্রাকৃতিক পরিবেশ এবং দূষণ",
+          "pdf_url": "Class 7/science/science_bn_13.pdf"
+        },
+        {
+          "chapter_id": "science_bn_14",
+          "chapter_title": "১৪শ অধ্যায়: জলবায়ু পরিবর্তন",
+          "pdf_url": "Class 7/science/science_bn_14.pdf"
+        },
+        {
+          "chapter_id": "science_bn_15",
+          "chapter_title": "মডেল টেস্ট",
+          "pdf_url": "Class 7/science/science_bn_15.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "science_ev_01",
+          "chapter_title": "Chapter-01: Lower Organisms",
+          "pdf_url": "Class 7/science/science_ev_01.pdf"
+        },
+        {
+          "chapter_id": "science_ev_02",
+          "chapter_title": "Chapter-02: Cellular Organisation of Plants and Animals",
+          "pdf_url": "Class 7/science/science_ev_02.pdf"
+        },
+        {
+          "chapter_id": "science_ev_03",
+          "chapter_title": "Chapter-03: External Morphology of Plants",
+          "pdf_url": "Class 7/science/science_ev_03.pdf"
+        },
+        {
+          "chapter_id": "science_ev_04",
+          "chapter_title": "Chapter-04: Respiration",
+          "pdf_url": "Class 7/science/science_ev_04.pdf"
+        },
+        {
+          "chapter_id": "science_ev_05",
+          "chapter_title": "Chapter-05: Digestive System and Blood Circulation System",
+          "pdf_url": "Class 7/science/science_ev_05.pdf"
+        },
+        {
+          "chapter_id": "science_ev_06",
+          "chapter_title": "Chapter-06: Structure of Matter",
+          "pdf_url": "Class 7/science/science_ev_06.pdf"
+        },
+        {
+          "chapter_id": "science_ev_07",
+          "chapter_title": "Chapter-07: The Use of Energy",
+          "pdf_url": "Class 7/science/science_ev_07.pdf"
+        },
+        {
+          "chapter_id": "science_ev_08",
+          "chapter_title": "Chapter-08: About Sound",
+          "pdf_url": "Class 7/science/science_ev_08.pdf"
+        },
+        {
+          "chapter_id": "science_ev_09",
+          "chapter_title": "Chapter-09: Heat and Temperature",
+          "pdf_url": "Class 7/science/science_ev_09.pdf"
+        },
+        {
+          "chapter_id": "science_ev_10",
+          "chapter_title": "Chapter-10: Phenomena of Electricity and Magnet",
+          "pdf_url": "Class 7/science/science_ev_10.pdf"
+        },
+        {
+          "chapter_id": "science_ev_11",
+          "chapter_title": "Chapter-11: Change in Surrounding and Various Incidents",
+          "pdf_url": "Class 7/science/science_ev_11.pdf"
+        },
+        {
+          "chapter_id": "science_ev_12",
+          "chapter_title": "Chapter-12: The Solar System and Our Earth",
+          "pdf_url": "Class 7/science/science_ev_12.pdf"
+        },
+        {
+          "chapter_id": "science_ev_13",
+          "chapter_title": "Chapter-13: Environment and Pollution",
+          "pdf_url": "Class 7/science/science_ev_13.pdf"
+        },
+        {
+          "chapter_id": "science_ev_14",
+          "chapter_title": "Chapter-14: Change of Climate",
+          "pdf_url": "Class 7/science/science_ev_14.pdf"
+        },
+        {
+          "chapter_id": "science_ev_15",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/science/science_ev_15.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "science_tb_bn",
+          "chapter_title": "বিজ্ঞান (পাঠ্যবই)",
+          "pdf_url": "Class 7/science/science_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "science_tb_ev",
+          "chapter_title": "Science (Textbook)",
+          "pdf_url": "Class 7/science/science_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "pe",
+      "subject_name_bn": "শারীরিক শিক্ষা ও স্বাস্থ্য",
+      "subject_name_en": "Physical Education and Health",
+      "chapters_bn": [
+        {
+          "chapter_id": "pe_bn_01",
+          "chapter_title": "১ম অধ্যায়: শরীরচর্চা ও সুস্থজীবন",
+          "pdf_url": "Class 7/pe/pe_bn_01.pdf"
+        },
+        {
+          "chapter_id": "pe_bn_02",
+          "chapter_title": "২য় অধ্যায়: স্কাউটিং ও গার্ল গাইডিং",
+          "pdf_url": "Class 7/pe/pe_bn_02.pdf"
+        },
+        {
+          "chapter_id": "pe_bn_03",
+          "chapter_title": "৩য় অধ্যায়: স্বাস্থ্যবিজ্ঞান পরিচিতি ও স্বাস্থ্যসেবা",
+          "pdf_url": "Class 7/pe/pe_bn_03.pdf"
+        },
+        {
+          "chapter_id": "pe_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: বয়ঃসন্ধিকালে ব্যক্তিগত নিরাপত্তা",
+          "pdf_url": "Class 7/pe/pe_bn_04.pdf"
+        },
+        {
+          "chapter_id": "pe_bn_05",
+          "chapter_title": "৫ম অধ্যায়: জীবনের জন্য খেলাধুলা",
+          "pdf_url": "Class 7/pe/pe_bn_05.pdf"
+        },
+        {
+          "chapter_id": "pe_bn_06",
+          "chapter_title": "মডেল টেস্ট",
+          "pdf_url": "Class 7/pe/pe_bn_06.pdf"
+        },
+        {
+          "chapter_id": "pe_bn_07",
+          "chapter_title": "ব্যবহারিক",
+          "pdf_url": "Class 7/pe/pe_bn_07.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "pe_ev_01",
+          "chapter_title": "Chapter-01: Physical Exercise and Healthy Life",
+          "pdf_url": "Class 7/pe/pe_ev_01.pdf"
+        },
+        {
+          "chapter_id": "pe_ev_02",
+          "chapter_title": "Chapter-02: Scouting and Girl Guiding",
+          "pdf_url": "Class 7/pe/pe_ev_02.pdf"
+        },
+        {
+          "chapter_id": "pe_ev_03",
+          "chapter_title": "Chapter-03: Introduction to Health Science and Health Service",
+          "pdf_url": "Class 7/pe/pe_ev_03.pdf"
+        },
+        {
+          "chapter_id": "pe_ev_04",
+          "chapter_title": "Chapter-04: The Personal Safety of Adolescence",
+          "pdf_url": "Class 7/pe/pe_ev_04.pdf"
+        },
+        {
+          "chapter_id": "pe_ev_05",
+          "chapter_title": "Chapter-05: Sports for life",
+          "pdf_url": "Class 7/pe/pe_ev_05.pdf"
+        },
+        {
+          "chapter_id": "pe_ev_06",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/pe/pe_ev_06.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "pe_tb_bn",
+          "chapter_title": "শারীরিক শিক্ষা ও স্বাস্থ্য (পাঠ্যবই)",
+          "pdf_url": "Class 7/pe/pe_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "pe_tb_ev",
+          "chapter_title": "Physical Education and Health (Textbook)",
+          "pdf_url": "Class 7/pe/pe_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "arts",
+      "subject_name_bn": "চারু ও কারুকলা",
+      "subject_name_en": "Arts and Crafts",
+      "chapters_bn": [
+        {
+          "chapter_id": "arts_bn_01",
+          "chapter_title": "১ম অধ্যায়: বাংলাদেশে চারুকলা শিক্ষার ইতিহাস",
+          "pdf_url": "Class 7/arts/arts_bn_01.pdf"
+        },
+        {
+          "chapter_id": "arts_bn_02",
+          "chapter_title": "২য় অধ্যায়: চিত্রকলা সর্বকালে সব মানুষের ভাষা",
+          "pdf_url": "Class 7/arts/arts_bn_02.pdf"
+        },
+        {
+          "chapter_id": "arts_bn_03",
+          "chapter_title": "৩য় অধ্যায়: বাংলাদেশের লোকশিল্প ও কারুশিল্প",
+          "pdf_url": "Class 7/arts/arts_bn_03.pdf"
+        },
+        {
+          "chapter_id": "arts_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: ছবি আঁকার বিভিন্ন মাধ্যম",
+          "pdf_url": "Class 7/arts/arts_bn_04.pdf"
+        },
+        {
+          "chapter_id": "arts_bn_05",
+          "chapter_title": "৫ম অধ্যায়: ছবি আঁকার নানারকম আনন্দদায়ক অনুশীলন",
+          "pdf_url": "Class 7/arts/arts_bn_05.pdf"
+        },
+        {
+          "chapter_id": "arts_bn_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: বিভিন্ন প্রকার শিল্পকর্ম",
+          "pdf_url": "Class 7/arts/arts_bn_06.pdf"
+        },
+        {
+          "chapter_id": "arts_bn_07",
+          "chapter_title": "৭ম অধ্যায়: রঙ ও রঙের ব্যবহার",
+          "pdf_url": "Class 7/arts/arts_bn_07.pdf"
+        },
+        {
+          "chapter_id": "arts_bn_08",
+          "chapter_title": "ধারাবাহিত মূল্যায়ন",
+          "pdf_url": "Class 7/arts/arts_bn_08.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "arts_ev_01",
+          "chapter_title": "Chapter-01: The History of Fine Arts Education of Bangladesh",
+          "pdf_url": "Class 7/arts/arts_ev_01.pdf"
+        },
+        {
+          "chapter_id": "arts_ev_02",
+          "chapter_title": "Chapter-02: Fine Arts is the Language of All People of All Ages",
+          "pdf_url": "Class 7/arts/arts_ev_02.pdf"
+        },
+        {
+          "chapter_id": "arts_ev_03",
+          "chapter_title": "Chapter-03: The Folk Art and Handicrafts of Bangladesh",
+          "pdf_url": "Class 7/arts/arts_ev_03.pdf"
+        },
+        {
+          "chapter_id": "arts_ev_04",
+          "chapter_title": "Chapter-04: Different Media of Drawing Pictures",
+          "pdf_url": "Class 7/arts/arts_ev_04.pdf"
+        },
+        {
+          "chapter_id": "arts_ev_05",
+          "chapter_title": "Chapter-05: Various Interesting Practices of Drawing Pictures",
+          "pdf_url": "Class 7/arts/arts_ev_05.pdf"
+        },
+        {
+          "chapter_id": "arts_ev_06",
+          "chapter_title": "Chapter-06: Different Types of Crafts",
+          "pdf_url": "Class 7/arts/arts_ev_06.pdf"
+        },
+        {
+          "chapter_id": "arts_ev_07",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/arts/arts_ev_07.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "arts_tb_bn",
+          "chapter_title": "চারু ও কারুকলা (পাঠ্যবই)",
+          "pdf_url": "Class 7/arts/arts_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "arts_tb_ev",
+          "chapter_title": "Art and Crafts (Textbook)",
+          "pdf_url": "Class 7/arts/arts_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "work",
+      "subject_name_bn": "কর্ম ও জীবনমুখী শিক্ষা",
+      "subject_name_en": "Work and Life Oriented Education",
+      "chapters_bn": [
+        {
+          "chapter_id": "work_bn_01",
+          "chapter_title": "১ম অধ্যায়: কর্ম ও মানবিকতা",
+          "pdf_url": "Class 7/work/work_bn_01.pdf"
+        },
+        {
+          "chapter_id": "work_bn_02",
+          "chapter_title": "২য় অধ্যায়: পারিবারিক কাজ ও পেশা",
+          "pdf_url": "Class 7/work/work_bn_02.pdf"
+        },
+        {
+          "chapter_id": "work_bn_03",
+          "chapter_title": "৩য় অধ্যায়: শিক্ষা পরিকল্পনা ও কর্মক্ষেত্রে সফলতা",
+          "pdf_url": "Class 7/work/work_bn_03.pdf"
+        },
+        {
+          "chapter_id": "work_bn_04",
+          "chapter_title": "ধারাবাহিক মূল্যায়ন",
+          "pdf_url": "Class 7/work/work_bn_04.pdf"
+        },
+        {
+          "chapter_id": "work_bn_05",
+          "chapter_title": "ব্যবহারিক অংশ",
+          "pdf_url": "Class 7/work/work_bn_05.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "work_ev_01",
+          "chapter_title": "Chapter-01: Work and Humanity",
+          "pdf_url": "Class 7/work/work_ev_01.pdf"
+        },
+        {
+          "chapter_id": "work_ev_02",
+          "chapter_title": "Chapter-02: Domestic Work and Profession",
+          "pdf_url": "Class 7/work/work_ev_02.pdf"
+        },
+        {
+          "chapter_id": "work_ev_03",
+          "chapter_title": "Chapter-03: Educational Planning and Success at Work",
+          "pdf_url": "Class 7/work/work_ev_03.pdf"
+        },
+        {
+          "chapter_id": "work_ev_04",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/work/work_ev_04.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "work_tb_bn",
+          "chapter_title": "কর্ম ও জীবনমুখী শিক্ষা (পাঠ্যবই)",
+          "pdf_url": "Class 7/work/work_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "work_tb_ev",
+          "chapter_title": "Work and Life Oriented Education (Textbook)",
+          "pdf_url": "Class 7/work/work_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "home",
+      "subject_name_bn": "গার্হস্থ্যবিজ্ঞান",
+      "subject_name_en": "Home Science",
+      "chapters_bn": [
+        {
+          "chapter_id": "home_bn_01",
+          "chapter_title": "১ম অধ্যায়: গৃহ ব্যবস্থাপনার স্তর ও গৃহসম্পদ",
+          "pdf_url": "Class 7/home/home_bn_01.pdf"
+        },
+        {
+          "chapter_id": "home_bn_02",
+          "chapter_title": "২য় অধ্যায়: গৃহসামগ্রী ক্রয়",
+          "pdf_url": "Class 7/home/home_bn_02.pdf"
+        },
+        {
+          "chapter_id": "home_bn_03",
+          "chapter_title": "৩য় অধ্যায়: গৃহকে মনোরম ও আকর্ষণীয় করার নীতি",
+          "pdf_url": "Class 7/home/home_bn_03.pdf"
+        },
+        {
+          "chapter_id": "home_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: পরিবার ও সমাজের সদস্য হিসেবে শিশু",
+          "pdf_url": "Class 7/home/home_bn_04.pdf"
+        },
+        {
+          "chapter_id": "home_bn_05",
+          "chapter_title": "৫ম অধ্যায়: শিশুর বিকাশে খেলাধুলা",
+          "pdf_url": "Class 7/home/home_bn_05.pdf"
+        },
+        {
+          "chapter_id": "home_bn_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: প্রতিবন্ধী শিশু",
+          "pdf_url": "Class 7/home/home_bn_06.pdf"
+        },
+        {
+          "chapter_id": "home_bn_07",
+          "chapter_title": "৭ম অধ্যায়: জাতিসংঘ সনদ অনুযায়ী শিশুর অধিকার",
+          "pdf_url": "Class 7/home/home_bn_07.pdf"
+        },
+        {
+          "chapter_id": "home_bn_08",
+          "chapter_title": "৮ম অধ্যায়: খাদ্য উপাদান, পরিপাক ও শোষণ",
+          "pdf_url": "Class 7/home/home_bn_08.pdf"
+        },
+        {
+          "chapter_id": "home_bn_09",
+          "chapter_title": "৯ম অধ্যায়: মৌলিক খাদ্যগোষ্ঠী",
+          "pdf_url": "Class 7/home/home_bn_09.pdf"
+        },
+        {
+          "chapter_id": "home_bn_10",
+          "chapter_title": "১০ম অধ্যায়: রোগীর পথ্য ও পথ্য পরিকল্পনা",
+          "pdf_url": "Class 7/home/home_bn_10.pdf"
+        },
+        {
+          "chapter_id": "home_bn_11",
+          "chapter_title": "১১শ অধ্যায়: খাদ্য সংরক্ষণ",
+          "pdf_url": "Class 7/home/home_bn_11.pdf"
+        },
+        {
+          "chapter_id": "home_bn_12",
+          "chapter_title": "১২শ অধ্যায়: বয়ন তন্তুর গুণাগুণ",
+          "pdf_url": "Class 7/home/home_bn_12.pdf"
+        },
+        {
+          "chapter_id": "home_bn_13",
+          "chapter_title": "১৩শ অধ্যায়: বসত্র অলংকরণ",
+          "pdf_url": "Class 7/home/home_bn_13.pdf"
+        },
+        {
+          "chapter_id": "home_bn_14",
+          "chapter_title": "১৪শ অধ্যায়: পোশাকের পারিপাট্য ও ব্যক্তিত্ব",
+          "pdf_url": "Class 7/home/home_bn_14.pdf"
+        },
+        {
+          "chapter_id": "home_bn_15",
+          "chapter_title": "১৫শ অধ্যায়: পোশাকের পরিচ্ছন্নতা",
+          "pdf_url": "Class 7/home/home_bn_15.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "home_ev_01",
+          "chapter_title": "Chapter-01: Steps of Home Management and Household Resources",
+          "pdf_url": "Class 7/home/home_ev_01.pdf"
+        },
+        {
+          "chapter_id": "home_ev_02",
+          "chapter_title": "Chapter-02: Buying Household Appliances",
+          "pdf_url": "Class 7/home/home_ev_02.pdf"
+        },
+        {
+          "chapter_id": "home_ev_03",
+          "chapter_title": "Chapter-03: Principles of Making Home Beautiful and Attractive",
+          "pdf_url": "Class 7/home/home_ev_03.pdf"
+        },
+        {
+          "chapter_id": "home_ev_04",
+          "chapter_title": "Chapter-04: Child Development and Social Relationship",
+          "pdf_url": "Class 7/home/home_ev_04.pdf"
+        },
+        {
+          "chapter_id": "home_ev_05",
+          "chapter_title": "Chapter-05: Role of Playing Games in the Development of Children",
+          "pdf_url": "Class 7/home/home_ev_05.pdf"
+        },
+        {
+          "chapter_id": "home_ev_06",
+          "chapter_title": "Chapter-06: Disabled Children",
+          "pdf_url": "Class 7/home/home_ev_06.pdf"
+        },
+        {
+          "chapter_id": "home_ev_07",
+          "chapter_title": "Chapter-07: Child's Rights According to the Declaration of United Nations 'UN'",
+          "pdf_url": "Class 7/home/home_ev_07.pdf"
+        },
+        {
+          "chapter_id": "home_ev_08",
+          "chapter_title": "Chapter-08: Nutrients of Food, Digestion and Absorption",
+          "pdf_url": "Class 7/home/home_ev_08.pdf"
+        },
+        {
+          "chapter_id": "home_ev_09",
+          "chapter_title": "Chapter-09: Basic Food Groups",
+          "pdf_url": "Class 7/home/home_ev_09.pdf"
+        },
+        {
+          "chapter_id": "home_ev_10",
+          "chapter_title": "Chapter-10: Patient's Diet and Plan for the Diet",
+          "pdf_url": "Class 7/home/home_ev_10.pdf"
+        },
+        {
+          "chapter_id": "home_ev_11",
+          "chapter_title": "Chapter-11: Preservation of Foods",
+          "pdf_url": "Class 7/home/home_ev_11.pdf"
+        },
+        {
+          "chapter_id": "home_ev_12",
+          "chapter_title": "Chapter-12: Qualities of Textile Fibres",
+          "pdf_url": "Class 7/home/home_ev_12.pdf"
+        },
+        {
+          "chapter_id": "home_ev_13",
+          "chapter_title": "Chapter-13: Decorating the Clothes",
+          "pdf_url": "Class 7/home/home_ev_13.pdf"
+        },
+        {
+          "chapter_id": "home_ev_14",
+          "chapter_title": "Chapter-14: Orderliness in Clothing and Personality",
+          "pdf_url": "Class 7/home/home_ev_14.pdf"
+        },
+        {
+          "chapter_id": "home_ev_15",
+          "chapter_title": "Chapter-15: Cleanliness of Clothes",
+          "pdf_url": "Class 7/home/home_ev_15.pdf"
+        },
+        {
+          "chapter_id": "home_ev_16",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/home/home_ev_16.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "home_tb_bn",
+          "chapter_title": "গার্হস্থ্য বিজ্ঞান (পাঠ্যবই)",
+          "pdf_url": "Class 7/home/home_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "home_tb_ev",
+          "chapter_title": "Home Science (Textbook)",
+          "pdf_url": "Class 7/home/home_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "agri",
+      "subject_name_bn": "কৃষিশিক্ষা",
+      "subject_name_en": "Agriculture Studies",
+      "chapters_bn": [
+        {
+          "chapter_id": "agri_bn_01",
+          "chapter_title": "১ম অধ্যায়: কৃষি এবং আমাদের সংস্কৃতি",
+          "pdf_url": "Class 7/agri/agri_bn_01.pdf"
+        },
+        {
+          "chapter_id": "agri_bn_02",
+          "chapter_title": "২য় অধ্যায়: কৃষি প্রযুক্তি",
+          "pdf_url": "Class 7/agri/agri_bn_02.pdf"
+        },
+        {
+          "chapter_id": "agri_bn_03",
+          "chapter_title": "৩য় অধ্যায়: কৃষি উপকরণ",
+          "pdf_url": "Class 7/agri/agri_bn_03.pdf"
+        },
+        {
+          "chapter_id": "agri_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: কৃষি ও জলবায়ু",
+          "pdf_url": "Class 7/agri/agri_bn_04.pdf"
+        },
+        {
+          "chapter_id": "agri_bn_05",
+          "chapter_title": "৫ম অধ্যায়: কৃষিজ উৎপাদন",
+          "pdf_url": "Class 7/agri/agri_bn_05.pdf"
+        },
+        {
+          "chapter_id": "agri_bn_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: বনায়ন",
+          "pdf_url": "Class 7/agri/agri_bn_06.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "agri_ev_01",
+          "chapter_title": "Chapter-01: Agriculture and Our Culture",
+          "pdf_url": "Class 7/agri/agri_ev_01.pdf"
+        },
+        {
+          "chapter_id": "agri_ev_02",
+          "chapter_title": "Chapter-02: Agricultural Technology",
+          "pdf_url": "Class 7/agri/agri_ev_02.pdf"
+        },
+        {
+          "chapter_id": "agri_ev_03",
+          "chapter_title": "Chapter-03: Agricultural Equipments",
+          "pdf_url": "Class 7/agri/agri_ev_03.pdf"
+        },
+        {
+          "chapter_id": "agri_ev_04",
+          "chapter_title": "Chapter-04: Agriculture and Climate",
+          "pdf_url": "Class 7/agri/agri_ev_04.pdf"
+        },
+        {
+          "chapter_id": "agri_ev_05",
+          "chapter_title": "Chapter-05: Agricultural Production",
+          "pdf_url": "Class 7/agri/agri_ev_05.pdf"
+        },
+        {
+          "chapter_id": "agri_ev_06",
+          "chapter_title": "Chapter-06: Afforestation",
+          "pdf_url": "Class 7/agri/agri_ev_06.pdf"
+        },
+        {
+          "chapter_id": "agri_ev_07",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/agri/agri_ev_07.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "agri_tb_bn",
+          "chapter_title": "কৃষি শিক্ষা (পাঠ্যবই)",
+          "pdf_url": "Class 7/agri/agri_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "agri_tb_ev",
+          "chapter_title": "Agriculture (Textbook)",
+          "pdf_url": "Class 7/agri/agri_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "islam",
+      "subject_name_bn": "ইসলাম শিক্ষা",
+      "subject_name_en": "Islamic Studies",
+      "chapters_bn": [
+        {
+          "chapter_id": "islam_bn_01",
+          "chapter_title": "১ম অধ্যায়: আকাইদ",
+          "pdf_url": "Class 7/islam/islam_bn_01.pdf"
+        },
+        {
+          "chapter_id": "islam_bn_02",
+          "chapter_title": "২য় অধ্যায়: ইবাদত",
+          "pdf_url": "Class 7/islam/islam_bn_02.pdf"
+        },
+        {
+          "chapter_id": "islam_bn_03",
+          "chapter_title": "৩য় অধ্যায়: কুরআন ও হাদিস শিক্ষা",
+          "pdf_url": "Class 7/islam/islam_bn_03.pdf"
+        },
+        {
+          "chapter_id": "islam_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: আখলাক",
+          "pdf_url": "Class 7/islam/islam_bn_04.pdf"
+        },
+        {
+          "chapter_id": "islam_bn_05",
+          "chapter_title": "৫ম অধ্যায়: আদর্শ জীবনচরিত",
+          "pdf_url": "Class 7/islam/islam_bn_05.pdf"
+        },
+        {
+          "chapter_id": "islam_bn_06",
+          "chapter_title": "মডেল টেস্ট",
+          "pdf_url": "Class 7/islam/islam_bn_06.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "islam_ev_01",
+          "chapter_title": "Chapter-01: Aqaid",
+          "pdf_url": "Class 7/islam/islam_ev_01.pdf"
+        },
+        {
+          "chapter_id": "islam_ev_02",
+          "chapter_title": "Chapter-02: Ibadat",
+          "pdf_url": "Class 7/islam/islam_ev_02.pdf"
+        },
+        {
+          "chapter_id": "islam_ev_03",
+          "chapter_title": "Chapter-03: Al-Quran and Hadith Studies",
+          "pdf_url": "Class 7/islam/islam_ev_03.pdf"
+        },
+        {
+          "chapter_id": "islam_ev_04",
+          "chapter_title": "Chapter-04: Akhlaq",
+          "pdf_url": "Class 7/islam/islam_ev_04.pdf"
+        },
+        {
+          "chapter_id": "islam_ev_05",
+          "chapter_title": "Chapter-05: Characteristics of an Ideal Life",
+          "pdf_url": "Class 7/islam/islam_ev_05.pdf"
+        },
+        {
+          "chapter_id": "islam_ev_06",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/islam/islam_ev_06.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "islam_tb_bn",
+          "chapter_title": "ইসলাম ও নৈতিক শিক্ষা (পাঠ্যবই)",
+          "pdf_url": "Class 7/islam/islam_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "islam_tb_ev",
+          "chapter_title": "Islam and Moral Education (Textbook)",
+          "pdf_url": "Class 7/islam/islam_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "hindu",
+      "subject_name_bn": "হিন্দুধর্ম শিক্ষা",
+      "subject_name_en": "Hindu Religion Studies",
+      "chapters_bn": [
+        {
+          "chapter_id": "hindu_bn_01",
+          "chapter_title": "১ম অধ্যায়: ঈশ্বরের স্বরূপ",
+          "pdf_url": "Class 7/hindu/hindu_bn_01.pdf"
+        },
+        {
+          "chapter_id": "hindu_bn_02",
+          "chapter_title": "২য় অধ্যায়: ধর্মগ্রন্থ",
+          "pdf_url": "Class 7/hindu/hindu_bn_02.pdf"
+        },
+        {
+          "chapter_id": "hindu_bn_03",
+          "chapter_title": "৩য় অধ্যায়: হিন্দুধর্মের স্বরূপ ও বিশ্বাস",
+          "pdf_url": "Class 7/hindu/hindu_bn_03.pdf"
+        },
+        {
+          "chapter_id": "hindu_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: নিত্যকর্ম ও যোগাসন",
+          "pdf_url": "Class 7/hindu/hindu_bn_04.pdf"
+        },
+        {
+          "chapter_id": "hindu_bn_05",
+          "chapter_title": "৫ম অধ্যায়: দেব-দেবী ও পূজা-পার্বণ",
+          "pdf_url": "Class 7/hindu/hindu_bn_05.pdf"
+        },
+        {
+          "chapter_id": "hindu_bn_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: ধর্মীয় উপাখ্যানে নৈতিক শিক্ষা",
+          "pdf_url": "Class 7/hindu/hindu_bn_06.pdf"
+        },
+        {
+          "chapter_id": "hindu_bn_07",
+          "chapter_title": "৭ম অধ্যায়: আদর্শ জীবনচরিত",
+          "pdf_url": "Class 7/hindu/hindu_bn_07.pdf"
+        },
+        {
+          "chapter_id": "hindu_bn_08",
+          "chapter_title": "৮ম অধ্যায়: হিন্দুধর্ম ও নৈতিক মূল্যবোধ",
+          "pdf_url": "Class 7/hindu/hindu_bn_08.pdf"
+        },
+        {
+          "chapter_id": "hindu_bn_09",
+          "chapter_title": "মডেল টেস্ট",
+          "pdf_url": "Class 7/hindu/hindu_bn_09.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "hindu_ev_01",
+          "chapter_title": "Chapter-01: The Nature of God",
+          "pdf_url": "Class 7/hindu/hindu_ev_01.pdf"
+        },
+        {
+          "chapter_id": "hindu_ev_02",
+          "chapter_title": "Chapter-02: Religious Books",
+          "pdf_url": "Class 7/hindu/hindu_ev_02.pdf"
+        },
+        {
+          "chapter_id": "hindu_ev_03",
+          "chapter_title": "Chapter-03: The Nature and the Beliefs of Hindu Religion",
+          "pdf_url": "Class 7/hindu/hindu_ev_03.pdf"
+        },
+        {
+          "chapter_id": "hindu_ev_04",
+          "chapter_title": "Chapter-04: Nityakarma and Yogasan",
+          "pdf_url": "Class 7/hindu/hindu_ev_04.pdf"
+        },
+        {
+          "chapter_id": "hindu_ev_05",
+          "chapter_title": "Chapter-05: Worship of Gods and Goddesses",
+          "pdf_url": "Class 7/hindu/hindu_ev_05.pdf"
+        },
+        {
+          "chapter_id": "hindu_ev_06",
+          "chapter_title": "Chapter-06: Hinduism and Moral Values",
+          "pdf_url": "Class 7/hindu/hindu_ev_06.pdf"
+        },
+        {
+          "chapter_id": "hindu_ev_07",
+          "chapter_title": "Chapter-07: Some Ideal Biographies",
+          "pdf_url": "Class 7/hindu/hindu_ev_07.pdf"
+        },
+        {
+          "chapter_id": "hindu_ev_08",
+          "chapter_title": "Chapter-08: Moral Teachings in Religious Myths",
+          "pdf_url": "Class 7/hindu/hindu_ev_08.pdf"
+        },
+        {
+          "chapter_id": "hindu_ev_09",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/hindu/hindu_ev_09.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "hindu_tb_bn",
+          "chapter_title": "হিন্দুধর্ম ও নৈতিক শিক্ষা (পাঠ্যবই)",
+          "pdf_url": "Class 7/hindu/hindu_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "hindu_tb_ev",
+          "chapter_title": "Hindu Religion and Moral Education (Textbook)",
+          "pdf_url": "Class 7/hindu/hindu_tb_ev.pdf"
+        }
+      ]
+    },
+    {
+      "subject_id": "buddhist",
+      "subject_name_bn": "বৌদ্ধধর্ম শিক্ষা",
+      "subject_name_en": "Buddhist Religion Studies",
+      "chapters_bn": [
+        {
+          "chapter_id": "buddhist_bn_01",
+          "chapter_title": "১ম অধ্যায়: গৌতম বুদ্ধের নৈতিক শিক্ষা",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_01.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_02",
+          "chapter_title": "২য় অধ্যায়: বন্দনা",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_02.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_03",
+          "chapter_title": "৩য় অধ্যায়: শীল",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_03.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_04",
+          "chapter_title": "৪র্থ অধ্যায়: দান",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_04.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_05",
+          "chapter_title": "৫ম অধ্যায়: সূত্র ও নীতিগাথা",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_05.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_06",
+          "chapter_title": "৬ষ্ঠ অধ্যায়: আর্য অষ্টাঙ্গিক মার্গ",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_06.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_07",
+          "chapter_title": "৭ম অধ্যায়: ধর্মীয় আচার-অনুষ্ঠান ও উৎসব",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_07.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_08",
+          "chapter_title": "৮ম অধ্যায়: চরিতমালা",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_08.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_09",
+          "chapter_title": "৯ম অধ্যায়: জাতক",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_09.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_10",
+          "chapter_title": "১০ম অধ্যায়: বৌদ্ধ ঐতিহ্য ও দর্শনীয় স্থান",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_10.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_11",
+          "chapter_title": "১১শ অধ্যায়: বৌদ্ধধর্মে রাজন্যবর্গের অবদান সম্রাট অশোক",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_11.pdf"
+        },
+        {
+          "chapter_id": "buddhist_bn_12",
+          "chapter_title": "মডেল টেস্ট",
+          "pdf_url": "Class 7/buddhist/buddhist_bn_12.pdf"
+        }
+      ],
+      "chapters_ev": [
+        {
+          "chapter_id": "buddhist_ev_01",
+          "chapter_title": "Chapter-01: Gautama Buddha's Moral Education",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_01.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_02",
+          "chapter_title": "Chapter-02: Bandana (worship)",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_02.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_03",
+          "chapter_title": "Chapter-03: Sila",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_03.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_04",
+          "chapter_title": "Chapter-04: Dana (gift)",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_04.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_05",
+          "chapter_title": "Chapter-05: Sutra And NithiGatha",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_05.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_06",
+          "chapter_title": "Chapter-06: Arya Astan ik Marga",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_06.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_07",
+          "chapter_title": "Chapter-07: Religious Rituals And Festivals",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_07.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_08",
+          "chapter_title": "Chapter-08: Biographies",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_08.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_09",
+          "chapter_title": "Chapter-09: Jataka",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_09.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_10",
+          "chapter_title": "Chapter-10: Buddhist Heritage And Worth Seeing Places",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_10.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_11",
+          "chapter_title": "Chapter-11: Role of Buddhists Kings in Buddhism Emperor Asoka",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_11.pdf"
+        },
+        {
+          "chapter_id": "buddhist_ev_12",
+          "chapter_title": "Model Test",
+          "pdf_url": "Class 7/buddhist/buddhist_ev_12.pdf"
+        }
+      ],
+      "chapters_textbook": [
+        {
+          "chapter_id": "buddhist_tb_bn",
+          "chapter_title": "বৌদ্ধধর্ম ও নৈতিক শিক্ষা (পাঠ্যবই)",
+          "pdf_url": "Class 7/buddhist/buddhist_tb_bn.pdf"
+        },
+        {
+          "chapter_id": "buddhist_tb_ev",
+          "chapter_title": "Buddhist Religion and Moral Education (Textbook)",
+          "pdf_url": "Class 7/buddhist/buddhist_tb_ev.pdf"
+        }
+      ]
+    }
+  ]
+}
